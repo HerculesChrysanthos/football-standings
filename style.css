@@ -1,0 +1,127 @@
+body {
+  font-family: sans-serif;
+  background-color: #f4f4f4;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background: rgba(0, 174, 255, 0.42);
+  color: #ffffff;
+}
+
+header h1 {
+  margin: auto;
+  padding: 50px 0;
+  font-size: 2.1em;
+  font-size: 35px;
+  text-align: center;
+}
+
+header h1 a:hover {
+  color: #ffffff;
+}
+
+header h1 a {
+  color: #000000;
+  text-decoration: none;
+}
+
+main {
+  margin: 0 auto;
+  width: 90%;
+}
+
+#choice {
+  display: flex;
+  align-items: center;
+  margin: 24px 0px;
+}
+
+#choice label {
+  margin-right: 14px;
+}
+
+#choice select {
+  width: 30%;
+  padding: 8px;
+  font-size: 16px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: white;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0 auto;
+}
+
+th,
+td {
+  border: none;
+  padding: 24px;
+  text-align: left;
+}
+
+th:first-child,
+td:first-child {
+  padding: 24px 24px 24px 0;
+  width: 10%;
+}
+
+th:last-child,
+td:last-child {
+  width: 10%;
+}
+
+.team {
+  padding-right: 124px;
+}
+
+.position,
+.points {
+  text-align: center;
+}
+
+tr {
+  border-bottom: 1px solid black;
+}
+
+footer {
+  background-color: rgba(0, 174, 255, 0.42);
+  padding: 15px;
+  margin-top: 24px;
+}
+
+footer p {
+  text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+  th:not(.basic),
+  td:not(.basic) {
+    display: none;
+  }
+
+  #choice {
+    flex-direction: column;
+    align-items: start;
+  }
+
+  #choice select {
+    margin-top: 14px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  select {
+    width: 100%;
+  }
+
+  .team {
+    padding-right: 0px;
+  }
+}

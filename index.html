@@ -8,14 +8,26 @@
     <link rel="stylesheet" type="text/css" href="style.css" />
     <title>Βαθμολογία Πρωταθλημάτων</title>
   </head>
-  <body>
-    <h1>Βαθμολογία Πρωταθλημάτων</h1>
+  <body onload="loadStandings()">
+    <header>
+      <h1><a href="index.html">Βαθμολογία Πρωταθλημάτων</a></h1>
+    </header>
+    <main>
+      <div id="choice">
+        <label for="championship">Επιλογή Πρωταθλήματος:</label>
+        <select id="championship" onchange="loadStandings()">
+          <option value="superleague" selected>Superleague</option>
+          <option value="bundesliga">Bundesliga</option>
+          <option value="serieA">Serie A</option>
+        </select>
+      </div>
 
-    <select id="championship" onchange="loadStandings()">
-      <option value="championship1">Πρωτάθλημα 1</option>
-      <option value="championship2">Πρωτάθλημα 2</option>
-      <!-- Add more options as needed -->
-    </select>
-    <script src="script.js"></script>
+      <div id="standings"></div>
+    </main>
+    <footer>
+      <p>Copyright &copy; <strong>Standings</strong> All Rights Reserved</p>
+    </footer>
+
+    <script type="text/javascript" src="script.js"></script>
   </body>
 </html>
