@@ -1,0 +1,225 @@
+{
+  "championship": "Superleague",
+  "standings": [
+    {
+      "team": "Ίντερ",
+      "matches": 14,
+      "wins": 11,
+      "ties": 2,
+      "loses": 1,
+      "goals": 33,
+      "goalsTaken": 7,
+      "goalDif": 26,
+      "points": 35
+    },
+    {
+      "team": "Γιουβέντους",
+      "matches": 14,
+      "wins": 10,
+      "ties": 3,
+      "loses": 1,
+      "goals": 22,
+      "goalsTaken": 9,
+      "goalDif": 13,
+      "points": 33
+    },
+    {
+      "team": "Μίλαν",
+      "matches": 14,
+      "wins": 9,
+      "ties": 2,
+      "loses": 3,
+      "goals": 24,
+      "goalsTaken": 15,
+      "goalDif": 9,
+      "points": 29
+    },
+    {
+      "team": "Ρόμα",
+      "matches": 14,
+      "wins": 7,
+      "ties": 3,
+      "loses": 4,
+      "goals": 27,
+      "goalsTaken": 16,
+      "goalDif": 11,
+      "points": 24
+    },
+    {
+      "team": "Νάπολι",
+      "matches": 14,
+      "wins": 7,
+      "ties": 3,
+      "loses": 4,
+      "goals": 26,
+      "goalsTaken": 17,
+      "goalDif": 9,
+      "points": 24
+    },
+    {
+      "team": "Φιορεντίνα",
+      "matches": 14,
+      "wins": 7,
+      "ties": 2,
+      "loses": 5,
+      "goals": 23,
+      "goalsTaken": 17,
+      "goalDif": 6,
+      "points": 23
+    },
+    {
+      "team": "Μπολόνια",
+      "matches": 14,
+      "wins": 5,
+      "ties": 7,
+      "loses": 2,
+      "goals": 16,
+      "goalsTaken": 11,
+      "goalDif": 5,
+      "points": 22
+    },
+    {
+      "team": "Αταλάντα",
+      "matches": 14,
+      "wins": 6,
+      "ties": 2,
+      "loses": 6,
+      "goals": 21,
+      "goalsTaken": 16,
+      "goalDif": 5,
+      "points": 20
+    },
+    {
+      "team": "Λάτσιο",
+      "matches": 14,
+      "wins": 6,
+      "ties": 2,
+      "loses": 6,
+      "goals": 15,
+      "goalsTaken": 15,
+      "goalDif": 0,
+      "points": 20
+    },
+    {
+      "team": "Τορίνο",
+      "matches": 14,
+      "wins": 5,
+      "ties": 4,
+      "loses": 5,
+      "goals": 13,
+      "goalsTaken": 16,
+      "goalDif": -3,
+      "points": 19
+    },
+    {
+      "team": "Μόντσα",
+      "matches": 14,
+      "wins": 4,
+      "ties": 6,
+      "loses": 4,
+      "goals": 15,
+      "goalsTaken": 14,
+      "goalDif": 1,
+      "points": 18
+    },
+    {
+      "team": "Φροζινόνε",
+      "matches": 14,
+      "wins": 5,
+      "ties": 3,
+      "loses": 6,
+      "goals": 20,
+      "goalsTaken": 24,
+      "goalDif": -4,
+      "points": 18
+    },
+    {
+      "team": "Λέτσε",
+      "matches": 14,
+      "wins": 3,
+      "ties": 7,
+      "loses": 4,
+      "goals": 16,
+      "goalsTaken": 16,
+      "goalDif": -3,
+      "points": 16
+    },
+    {
+      "team": "Τζένοα",
+      "matches": 14,
+      "wins": 4,
+      "ties": 3,
+      "loses": 7,
+      "goals": 15,
+      "goalsTaken": 19,
+      "goalDif": -4,
+      "points": 15
+    },
+    {
+      "team": "Σασουόλο",
+      "matches": 14,
+      "wins": 4,
+      "ties": 3,
+      "loses": 7,
+      "goals": 21,
+      "goalsTaken": 26,
+      "goalDif": -5,
+      "points": 15
+    },
+    {
+      "team": "Ουντινέζε",
+      "matches": 14,
+      "wins": 1,
+      "ties": 9,
+      "loses": 4,
+      "goals": 12,
+      "goalsTaken": 21,
+      "goalDif": -9,
+      "points": 12
+    },
+    {
+      "team": "Έμπολι",
+      "matches": 14,
+      "wins": 3,
+      "ties": 2,
+      "loses": 9,
+      "goals": 9,
+      "goalsTaken": 26,
+      "goalDif": -17,
+      "points": 11
+    },
+    {
+      "team": "Ελλάς Βερόνα",
+      "matches": 14,
+      "wins": 2,
+      "ties": 4,
+      "loses": 8,
+      "goals": 12,
+      "goalsTaken": 21,
+      "goalDif": -9,
+      "points": 10
+    },
+    {
+      "team": "Κάλιαρι",
+      "matches": 14,
+      "wins": 2,
+      "ties": 4,
+      "loses": 8,
+      "goals": 13,
+      "goalsTaken": 26,
+      "goalDif": -13,
+      "points": 10
+    },
+    {
+      "team": "Σαλερνιτάνα",
+      "matches": 14,
+      "wins": 1,
+      "ties": 5,
+      "loses": 8,
+      "goals": 10,
+      "goalsTaken": 28,
+      "goalDif": -18,
+      "points": 8
+    }
+  ]
+}

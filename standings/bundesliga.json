@@ -1,0 +1,203 @@
+{
+  "championship": "Superleague",
+  "standings": [
+    {
+      "team": "Μπάγερ Λεβερκούζεν",
+      "matches": 13,
+      "wins": 11,
+      "ties": 2,
+      "loses": 0,
+      "goals": 38,
+      "goalsTaken": 11,
+      "goalDif": 27,
+      "points": 35
+    },
+    {
+      "team": "Μπάγερν Μονάχου",
+      "matches": 12,
+      "wins": 10,
+      "ties": 2,
+      "loses": 0,
+      "goals": 43,
+      "goalsTaken": 9,
+      "goalDif": 34,
+      "points": 32
+    },
+    {
+      "team": "Στουτγκάρδη",
+      "matches": 13,
+      "wins": 10,
+      "ties": 0,
+      "loses": 3,
+      "goals": 33,
+      "goalsTaken": 15,
+      "goalDif": 18,
+      "points": 30
+    },
+    {
+      "team": "Λειψία",
+      "matches": 13,
+      "wins": 8,
+      "ties": 2,
+      "loses": 3,
+      "goals": 31,
+      "goalsTaken": 13,
+      "goalDif": 18,
+      "points": 26
+    },
+    {
+      "team": "Ντόρτμουντ",
+      "matches": 13,
+      "wins": 7,
+      "ties": 4,
+      "loses": 2,
+      "goals": 26,
+      "goalsTaken": 20,
+      "goalDif": 6,
+      "points": 25
+    },
+    {
+      "team": "Χόφενχαϊμ",
+      "matches": 13,
+      "wins": 6,
+      "ties": 2,
+      "loses": 5,
+      "goals": 25,
+      "goalsTaken": 23,
+      "goalDif": 2,
+      "points": 20
+    },
+    {
+      "team": "Άιντραχτ Φρανκφούρτης",
+      "matches": 13,
+      "wins": 4,
+      "ties": 6,
+      "loses": 3,
+      "goals": 19,
+      "goalsTaken": 15,
+      "goalDif": 4,
+      "points": 18
+    },
+    {
+      "team": "Φράιμπουργκ",
+      "matches": 13,
+      "wins": 5,
+      "ties": 3,
+      "loses": 5,
+      "goals": 16,
+      "goalsTaken": 23,
+      "goalDif": -7,
+      "points": 18
+    },
+    {
+      "team": "Άουγκσμπουργκ",
+      "matches": 13,
+      "wins": 4,
+      "ties": 5,
+      "loses": 4,
+      "goals": 23,
+      "goalsTaken": 25,
+      "goalDif": -2,
+      "points": 17
+    },
+    {
+      "team": "Γκλάντμπαχ",
+      "matches": 13,
+      "wins": 4,
+      "ties": 4,
+      "loses": 5,
+      "goals": 27,
+      "goalsTaken": 28,
+      "goalDif": -1,
+      "points": 16
+    },
+    {
+      "team": "Βόλφσμπουργκ",
+      "matches": 13,
+      "wins": 5,
+      "ties": 1,
+      "loses": 7,
+      "goals": 18,
+      "goalsTaken": 24,
+      "goalDif": -6,
+      "points": 16
+    },
+    {
+      "team": "Μπόχουμ",
+      "matches": 13,
+      "wins": 2,
+      "ties": 7,
+      "loses": 4,
+      "goals": 14,
+      "goalsTaken": 26,
+      "goalDif": -12,
+      "points": 13
+    },
+    {
+      "team": "Βέρντερ Βρέμης",
+      "matches": 13,
+      "wins": 3,
+      "ties": 2,
+      "loses": 8,
+      "goals": 18,
+      "goalsTaken": 27,
+      "goalDif": -9,
+      "points": 11
+    },
+    {
+      "team": "Χάιντενχαϊμ",
+      "matches": 13,
+      "wins": 3,
+      "ties": 2,
+      "loses": 8,
+      "goals": 18,
+      "goalsTaken": 28,
+      "goalDif": -10,
+      "points": 11
+    },
+    {
+      "team": "Κολωνία",
+      "matches": 13,
+      "wins": 2,
+      "ties": 3,
+      "loses": 8,
+      "goals": 10,
+      "goalsTaken": 24,
+      "goalDif": -14,
+      "points": 9
+    },
+    {
+      "team": "Ντάρμσταντ",
+      "matches": 13,
+      "wins": 2,
+      "ties": 3,
+      "loses": 8,
+      "goals": 15,
+      "goalsTaken": 34,
+      "goalDif": -19,
+      "points": 9
+    },
+    {
+      "team": "Μάιντζ",
+      "matches": 13,
+      "wins": 1,
+      "ties": 5,
+      "loses": 7,
+      "goals": 12,
+      "goalsTaken": 26,
+      "goalDif": -14,
+      "points": 8
+    },
+    {
+      "team": "Ουνιόν Βερολίνου",
+      "matches": 12,
+      "wins": 2,
+      "ties": 1,
+      "loses": 9,
+      "goals": 12,
+      "goalsTaken": 27,
+      "goalDif": -15,
+      "points": 7
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "championship": "Superleague",
+  "standings": [
+    {
+      "team": "Παναθηναϊκός",
+      "matches": 13,
+      "wins": 10,
+      "ties": 1,
+      "loses": 2,
+      "goals": 36,
+      "goalsTaken": 8,
+      "goalDif": 28,
+      "points": 31
+    },
+    {
+      "team": "ΑΕΚ",
+      "matches": 13,
+      "wins": 9,
+      "ties": 3,
+      "loses": 1,
+      "goals": 23,
+      "goalsTaken": 9,
+      "goalDif": 14,
+      "points": 30
+    },
+    {
+      "team": "ΠΑΟΚ",
+      "matches": 13,
+      "wins": 9,
+      "ties": 2,
+      "loses": 2,
+      "goals": 29,
+      "goalsTaken": 10,
+      "goalDif": 19,
+      "points": 29
+    },
+    {
+      "team": "Ολυμπιακός",
+      "matches": 13,
+      "wins": 9,
+      "ties": 2,
+      "loses": 2,
+      "goals": 33,
+      "goalsTaken": 12,
+      "goalDif": 21,
+      "points": 28
+    },
+    {
+      "team": "Άρης",
+      "matches": 13,
+      "wins": 6,
+      "ties": 2,
+      "loses": 5,
+      "goals": 18,
+      "goalsTaken": 15,
+      "goalDif": 3,
+      "points": 20
+    },
+    {
+      "team": "Αστέρας Τρίπολης",
+      "matches": 13,
+      "wins": 5,
+      "ties": 2,
+      "loses": 6,
+      "goals": 15,
+      "goalsTaken": 20,
+      "goalDif": -5,
+      "points": 17
+    },
+    {
+      "team": "Λαμία",
+      "matches": 13,
+      "wins": 4,
+      "ties": 4,
+      "loses": 5,
+      "goals": 14,
+      "goalsTaken": 23,
+      "goalDif": -9,
+      "points": 16
+    },
+    {
+      "team": "ΟΦΗ",
+      "matches": 13,
+      "wins": 3,
+      "ties": 6,
+      "loses": 4,
+      "goals": 13,
+      "goalsTaken": 19,
+      "goalDif": -6,
+      "points": 15
+    },
+    {
+      "team": "Πανσερραϊκός",
+      "matches": 13,
+      "wins": 3,
+      "ties": 4,
+      "loses": 6,
+      "goals": 14,
+      "goalsTaken": 25,
+      "goalDif": -11,
+      "points": 13
+    },
+    {
+      "team": "Ατρόμητος",
+      "matches": 13,
+      "wins": 2,
+      "ties": 6,
+      "loses": 5,
+      "goals": 15,
+      "goalsTaken": 25,
+      "goalDif": -10,
+      "points": 12
+    },
+    {
+      "team": "Βόλος ΝΠΣ",
+      "matches": 13,
+      "wins": 2,
+      "ties": 5,
+      "loses": 6,
+      "goals": 13,
+      "goalsTaken": 23,
+      "goalDif": -10,
+      "points": 11
+    },
+    {
+      "team": "Παναιτωλικός",
+      "matches": 13,
+      "wins": 2,
+      "ties": 3,
+      "loses": 8,
+      "goals": 11,
+      "goalsTaken": 23,
+      "goalDif": -12,
+      "points": 9
+    },
+    {
+      "team": "ΠΑΣ Γιάννινα",
+      "matches": 13,
+      "wins": 1,
+      "ties": 5,
+      "loses": 7,
+      "goals": 12,
+      "goalsTaken": 20,
+      "goalDif": -8,
+      "points": 8
+    },
+    {
+      "team": "ΑΕ Κηφισιάς",
+      "matches": 13,
+      "wins": 1,
+      "ties": 5,
+      "loses": 7,
+      "goals": 12,
+      "goalsTaken": 26,
+      "goalDif": -14,
+      "points": 8
+    }
+  ]
+}
